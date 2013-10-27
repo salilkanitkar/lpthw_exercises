@@ -14,7 +14,7 @@ print "So you are %r old, %r tall and %r heavy." % (age, height, weight)
 
 """
 Test Run:
-$ python e10.py
+$ ./e11.py
 How old are you? 27
 How tall are you? 5'3"
 How much do you weigh? 160
